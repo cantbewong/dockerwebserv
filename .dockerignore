@@ -1,0 +1,3 @@
+# ignore .git folder, mardown files, LICENSE file
+.git
+*.md
